@@ -14,7 +14,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", builder =>
     {
-        builder.WithOrigins("http://localhost:5000") // כאן תכתבי את ה-URL של ה-Client שלך, למשל אם זה React או Vue
+        builder.WithOrigins("http://localhost:3000") // כאן תכתבי את ה-URL של ה-Client שלך, למשל אם זה React או Vue
                .AllowAnyMethod()
                .AllowAnyHeader();
     });

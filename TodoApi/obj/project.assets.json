@@ -2518,11 +2518,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות ו\\פרטיקוד\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות ו\\פרטיקוד\\AuthSample\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרטיקוד\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרטיקוד\\AuthSample\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרטיקוד\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרטיקוד\\AuthSample\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
