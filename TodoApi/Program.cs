@@ -14,7 +14,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowSpecificOrigin", builder =>
     {
-        builder.WithOrigins("https://todoapi-sl0z.onrender.com") // כאן תכתבי את ה-URL של ה-Client שלך, למשל אם זה React או Vue
+        builder.WithOrigins("https://todolistreact-4nk8.onrender.com") // כאן תכתבי את ה-URL של ה-Client שלך, למשל אם זה React או Vue
                .AllowAnyMethod()
                .AllowAnyHeader();
     });
